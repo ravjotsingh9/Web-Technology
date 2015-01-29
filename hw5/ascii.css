@@ -1,0 +1,49 @@
+body{
+	background-color: #CCCCFF;
+	font-family :	sans-serif;
+	font-size:	14pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1{
+	font-size:	32pt;
+	font-weight:	bold;
+	margin-left: auto;
+	margin-right: auto;
+	width:60%;	
+}
+textarea{
+	height: 400px;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: monospace;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+}
+fieldset{
+	border-width: 5px;
+	border-color: black;
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	width:70%;
+	text-align: center;
+}
+.fixed
+{
+	margin-left:0 ;
+	margin-right:0;
+	padding: 0;
+	float: left;
+	bottom:0;
+	right:0;
+	position: fixed;
+	opacity: 0.50;
+}

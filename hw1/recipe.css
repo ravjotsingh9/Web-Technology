@@ -1,0 +1,45 @@
+h1
+{
+color: #A4A400;
+background-color: #F0F0F0;
+font-family:Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+text-align:center;
+font-size:22pt;
+text-decoration:underline;
+ 
+}
+h2
+{
+color: #A4A400;
+background-color: #F0F0F0;
+font-family:Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+text-align:left;
+font-size:18pt;
+text-decoration:underline;
+font-weight: normal;
+}
+body
+{
+color:#404040;
+font-size:11pt;
+font-family:Georgia, Garamond, serif;
+background-image:url("http://ws.mss.icics.ubc.ca/~feeley/cur/hw/hw1/images/silverware.jpg");
+}
+a
+{
+color:#A4A400;
+}
+abbr
+{
+text-decoration:underline;
+}
+blockquote
+{
+font-style: italic;
+text-indent: 10px;
+background-color:#FFFFA8;
+}
+ul
+{
+list-style-image: url('http://ws.mss.icics.ubc.ca/~feeley/cur/hw/hw1/images/pie_icon.gif');
+}

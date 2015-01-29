@@ -1,0 +1,53 @@
+body{
+	background-color: 	#dad9d4;
+	font-family: 		Verdana, sans-serif;
+}
+#main{
+	background-color: 	white;
+	width: 				90%;
+	color: 				black;
+	padding: 			1em;
+	margin: 			0 auto;
+}
+ul{
+	color:				red;
+}
+
+form{
+	width: 				24em;
+	margin: 			0 auto;
+}
+
+table{
+	text-align: 		center;
+	border-collapse: 	collapse;
+	margin: 			1em auto;
+	border: 			1px solid #dad9d4;
+}
+
+tr:nth-child(even){
+	background-color: 	#dad9d4;
+}
+
+td{
+	padding-left: 		1em;
+	padding-right: 		1em;
+	margin: 			1em;
+}
+
+th{
+	font-weight: 		bold;
+}
+
+#banner, #w3c{
+	background-image: 	url('./banner-background.png');
+	color: 				white;
+	padding: 			1em;
+	width: 				90%;
+	margin: 			0 auto;
+}
+
+
+p, h1{
+	text-align: 		center;
+}
