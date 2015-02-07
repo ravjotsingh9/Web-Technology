@@ -1,0 +1,16 @@
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=<moviename>
+<moviename> could be:
+  tmnt
+  tmnt2
+  lonesurvivor
+  princessbride
+  mortalkombat
+  mymovie
+  
+Direct Links:
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=tmnt
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=tmnt2
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=lonesurvivor
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=princessbride
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=mortalkombat
+http://ws.mss.icics.ubc.ca/~ravjot1/cics516/hw3/movie.php?film=mymovie
